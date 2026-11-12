@@ -3,7 +3,7 @@
 Static course page for **Internet of Things**, Dept. of Information Technology, JNTUGV-CEV.
 Instructor: Prof. G. JayaSuma. It is a single `index.html` plus a `pdfs/` folder of course materials. No build step is needed.
 
-Live site: https://mkk379.github.io/iot/
+Live site: https://gjayasuma.github.io/IOT/
 
 ## What the page contains
 
